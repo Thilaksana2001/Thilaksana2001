@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Thilaksana Vikneshvaran
+👋 Hi, I’m Thilaksana Vikneshvaran
   
   -🎓 Graduate of Electrical & Electronics Engineering @ South Eastern University of Sri Lanka
   -🌱 Passionate about Telecommunication, Networking and Renewable Energy.
